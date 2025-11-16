@@ -2,7 +2,7 @@ import random
 from board import Move
 from config import *
 
-class P25CS0004:
+class RANDOMPLAYER1:
     """
     An agent that plays a random legal move instantly.
     It does not use any adversarial search or evaluation function.
