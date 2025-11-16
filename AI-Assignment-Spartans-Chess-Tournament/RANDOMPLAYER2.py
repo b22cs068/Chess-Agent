@@ -2,7 +2,7 @@ import random
 import time
 from board import Move
 
-class P22CS201:
+class RANDOMPLAYER2:
     """
     An agent that plays a random legal move after a short delay.
     This can be useful for students to visually follow the game.
